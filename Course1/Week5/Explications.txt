@@ -1,0 +1,22 @@
+
+                    ----------------------- Conditional Statements -----------------------
+
+Conditional Statements evaluate:
+    x = 0
+    if x < 2 :
+        print('small')
+    elif x < 10 :
+        print('Medium')
+    else :
+        print('LARGE')
+    print('All done')
+
+
+Try/Catch:
+    astr = 'Hello Bob'
+    try
+        istr = int(astr)
+    except 
+        istr = -1
+    
+    print('First name', istr);
