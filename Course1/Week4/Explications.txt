@@ -1,0 +1,30 @@
+
+                    ----------------------- Expressions -----------------------
+
+Expressions evaluate:
+
+    1- Parenthesis 
+    2- Power 
+    3- Muliplication
+    4- Addition
+    5- Left to Right
+
+
+Get a variable type:
+    type('Hello world')
+
+Force conversion:
+
+    x = 1
+    f = float(x)
+    y = int(x)
+    type(y)
+
+    sval = '123'
+    ival = int(sval)
+    type(ival)
+
+
+Reading input from the console:
+    nam = input('Who are you?')
+    print('Welcome', nam)
