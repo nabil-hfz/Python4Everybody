@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 *.DS_Store
+.Course1/*.DS_Store
